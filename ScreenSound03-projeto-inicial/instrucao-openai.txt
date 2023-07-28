@@ -1,0 +1,4 @@
+- Após criar a chave no site https://platform.openai.com/account/api-keys
+
+- No terminal, entrar na pasta do projeto e digitar o comando "dotnet add package OpenAI" 
+para instalar o pacote no projeto
